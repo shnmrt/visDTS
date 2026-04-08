@@ -1,0 +1,11 @@
+# environment.yml
+name: visDTS
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - duckdb=1.5.1
+  - pandas=3.0.2
+  - pyecharts=2.1.0
+  - ipykernel=7.2.0
+  - jupyter=1.1.1
